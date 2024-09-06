@@ -1,1 +1,1 @@
-# EDA-data-analyst
+# Grip_EDA_Retail
